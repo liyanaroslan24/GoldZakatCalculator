@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
 
             shareIntent.putExtra(
                     Intent.EXTRA_TEXT,
-                    "Gold Zakat Calculator\n\nCreated by Nur Liyana\n\nhttps://github.com/yourusername/GoldZakatCalculator"
+                    "Gold Zakat Calculator\n\nGitHub Repository:\nhttps://github.com/liyanaroslan24/GoldZakatCalculator"
             );
 
             startActivity(
