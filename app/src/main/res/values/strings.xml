@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Gold Zakat Calculator</string>
+
+    <string name="title_main">Gold Zakat Calculator</string>
+
+    <string name="instruction">
+        Enter your gold information and calculate your zakat amount.
+    </string>
+
+    <string name="calculate">Calculate Zakat</string>
+
+    <string name="about">About</string>
+
+    <string name="share">Share</string>
+
+    <string name="notice">
+        Notice:
+        \n• Keep Gold Nisab = 85 grams
+        \n• Wear Gold Nisab = 200 grams
+        \n• Zakat Rate = 2.5%%
+    </string>
+
+</resources>
